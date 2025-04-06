@@ -1,1 +1,0 @@
-This is my first attempt in add files in git test3.txt
